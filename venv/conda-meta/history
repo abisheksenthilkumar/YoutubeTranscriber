@@ -1,4 +1,4 @@
-==> 2024-07-17 00:08:38 <==
+==> 2024-07-17 12:13:58 <==
 # cmd: C:\Users\abish\anaconda3\Scripts\conda-script.py create -p venv python==3.10 -y
 # conda version: 24.5.0
 +defaults/noarch::tzdata-2024a-h04d1e81_0
